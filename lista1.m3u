@@ -1,18 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&EMundo",A&E Mundo
-http://190.131.228.59:8000/play/a05x/index.m3u8
+http://190.83.119.67:8000/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-id="AMC",AMC
-http://190.131.228.59:8000/play/a0qk/index.m3u8
+http://190.83.119.67:8000/play/a0pr/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
-http://190.131.228.59:8000/play/a04i/index.m3u8
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
-http://190.131.228.59:8000/play/a05o/index.m3u8
+http://190.83.119.67:8000/play/a0sb/index.m3u8
+#EXTINF:-1 tvg-id="Baby TV",Baby TV
+http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1,CABLENOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://190.131.228.59:8000/play/a049/index.m3u8
-#EXTINF:-1 tvg-id="CNNEspanol",CNN Espanol
-http://190.131.228.59:8000/play/a052/index.m3u8
 #EXTINF:-1,Canal Caracol
 http://190.131.228.59:8000/play/a005/index.m3u8
 #EXTINF:-1,Canal RCN
@@ -21,48 +19,42 @@ http://190.131.228.59:8000/play/a006/index.m3u8
 http://190.131.228.59:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="Capital",Capital
 http://190.131.228.59:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
-http://190.131.228.59:8000/play/a03z/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1,CARTOONITO
+http://190.83.119.67:8000/play/a0pa/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
-http://190.131.228.59:8000/play/a04g/index.m3u8
+http://190.83.119.67:8000/play/a0ug/index.m3u8
 #EXTINF:-1,CINEMA +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
-#EXTINF:-1,Comedy Central
-http://190.131.228.59:8000/play/a0qh/index.m3u8
-#EXTINF:-1 tvg-id="DHE",DHE
-http://190.83.119.67:8000/play/a0ok/index.m3u8
 #EXTINF:-1,Discovery Channel
-http://190.131.228.59:8000/play/a05n/index.m3u8
-#EXTINF:-1,Discovery ID
-http://190.83.119.67:8000/play/a0tf/index.m3u8
+http://190.83.119.67:8000/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids",Discovery Kids
-http://190.131.228.59:8000/play/a06y/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo",Discovery Turbo
-http://190.131.228.59:8000/play/a04t/index.m3u8
+http://190.83.119.67:8000/play/a0u1/index.m3u8
 #EXTINF:-1,Discovery SCIENCE
-http://204.199.84.50:9271/live321/discoveryscience/mpeg.2ts
+http://190.83.119.67:8000/play/a0ny/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo",Discovery Turbo
+http://190.83.119.67:8000/play/a0u5/index.m3u
 #EXTINF:-1 tvg-id="DisneyChannel",Disney Channel
-http://190.131.228.59:8000/play/a05m/index.m3u8
+http://190.83.119.67:8000/play/a0u3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr",Disney Jr
-http://190.131.228.59:8000/play/a05i/index.m3u8
+http://190.83.119.67:8000/play/a0pb/index.m3u8
 #EXTINF:-1,DW EN ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainment",E Entertainment
-http://190.131.228.59:8000/play/a05q/index.m3u8
+http://190.83.119.67:8000/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet",El Gourmet
 http://190.83.119.67:8000/play/a0r8/index.m3u8
 #EXTINF:-1,ENERGEEK 1
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-id="FX",FX
-http://190.131.228.59:8000/play/a04k/index.m3u8
+http://190.83.119.67:8000/play/a0r4/index.m3u8
 #EXTINF:-1,Film & Arts
-http://190.131.228.59:8000/play/a0qc/index.m3u8
+http://190.83.119.67:8000/play/a0oj/index.m3u8
 #EXTINF:-1,Golden
 http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF:-1,Golden Premiere
-http://190.83.119.67:8000/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="HBO",HBO
 http://190.131.228.59:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="HBO2",HBO 2
@@ -76,29 +68,17 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1,HGTV
 http://190.83.119.67:8000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel",History Channel
-http://45.5.119.202:8000/play/a031/index.m3u8
-#EXTINF:-1 tvg-id="H2",History 2
-http://190.83.119.67:8000/play/a0r7/index.m3u8
+http://190.83.119.67:8000/play/a0sc/index.m3u8
 #EXTINF:-1,HTV
 http://190.83.119.67:8000/play/a0rg/index.m3u8
-#EXTINF:-1,I-Sat
-http://190.131.228.59:8000/play/a0ht/index.m3u8
-#EXTINF:-1,Lifetime
-http://190.131.228.59:8000/play/a0hw/index.m3u8
-#EXTINF:-1,LOVE NATURE
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV",MTV
-http://190.131.228.59:8000/play/a042/index.m3u8
-#EXTINF:-1 tvg-id="MTV 00",MTV 00's
-http://190.83.119.67:8000/play/a0rf/index.m3u8
-#EXTINF:-1 tvg-id="MTV 80",MTV 80's
-http://190.83.119.67:8000/play/a0po/index.m3u8
+http://190.83.119.67:8000/play/a0ua/index.m3u8
 #EXTINF:-1,Nat Geo 
-http://190.131.228.59:8000/play/a03x/index.m3u8
+http://190.83.119.67:8000/play/a0pk/index.m3u8
 #EXTINF:-1 tvg-id="NickJr",Nick Jr
-http://190.131.228.59:8000/play/a09b/index.m3u8
+http://190.83.119.67:8000/play/a0p9/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
-http://190.131.228.59:8000/play/a03v/index.m3u8
+http://190.83.119.67:8000/play/a0u2/index.m3u8
 #EXTINF:-1,Paramount
 http://190.83.119.67:8000/play/a0ol/index.m3u8
 #EXTINF:-1,Pasiones
@@ -107,41 +87,37 @@ http://190.83.119.67:8000/play/a0td/index.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,RETROPLUS 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Sony",Sony
+http://190.83.119.67:8000/play/a0s5/index.m3u8
+#EXTINF:-1 tvg-id="Space",Space
+http://190.83.119.67:8000/play/a0ph/index.m3u8
 #EXTINF:-1 tvg-id="STARCHANNEL",STAR CHANNEL
-http://190.131.228.59:8000/play/a08r/index.m3u8
+http://190.83.119.67:8000/play/a0u4/index.m3u8
 #EXTINF:-1 tvg-id="SenalColombia",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="Sony",Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-id="Space",Space
-http://190.131.228.59:8000/play/a04j/index.m3u8
 #EXTINF:-1,Studio Universal
-http://190.131.228.59:8000/play/a0i0/index.m3u8
+http://190.83.119.67:8000/play/a0uh/index.m3u8
 #EXTINF:-1,TASTEMADE
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,TBS
+http://190.83.119.67:8000/play/a0pj/index.m3u8
 #EXTINF:-1 tvg-id="TCM",TCM
-http://190.131.228.59:8000/play/a06z/index.m3u8
-#EXTINF:-1 tvg-id="TLC",TLC
-http://190.131.228.59:8000/play/a062/index.m3u8
+http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
-http://190.131.228.59:8000/play/a04a/index.m3u8
+http://190.83.119.67:8000/play/a0pq/index.m3u8
 #EXTINF:-1,TNT Series 
 http://190.83.119.67:8000/play/a0pi/index.m3u8
 #EXTINF:-1,TV AGRO
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
-#EXTINF:-1 tvg-id="TVE",TVE
-http://190.131.228.59:8000/play/a04e/index.m3u8
 #EXTINF:-1,Telefuturo
 http://190.131.228.59:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo",Telemundo
-http://190.131.228.59:8000/play/a067/index.m3u8
+http://190.83.119.67:8000/play/a0pf/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://190.83.119.67:8000/play/a0s3/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports",TyC Sports
-http://190.131.228.59:8000/play/a05v/index.m3u8
 #EXTINF:-1,Universal Channel
-http://190.131.228.59:8000/play/a040/index.m3u8
+http://190.83.119.67:8000/play/a0uc/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
-http://190.131.228.59:8000/play/a05p/index.m3u8
+http://190.83.119.67:8000/play/a0s6/index.m3u8
 #EXTINF:-1,Win Sports+
 http://190.131.228.59:8000/play/a0e2/index.m3u8
