@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&EMundo",A&E Mundo
 http://190.131.228.59:8000/play/a05x/index.m3u8
+#EXTINF:-1,Anime Zone
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AMC",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
 http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="Baby TV",Baby TV
-
 #EXTINF:-1,CABLENOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,Canal Caracol
@@ -21,8 +21,6 @@ http://190.131.228.59:8000/play/a003/index.m3u8
 http://190.131.228.59:8000/play/a00h/index.m3u8
 #EXTINF:-1,CARTOON NETWORK
 http://190.131.228.59:8000/play/a0je/index.m3u8
-#EXTINF:-1,CARTOONITO
-
 #EXTINF:-1,Cinecanal
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
@@ -35,8 +33,6 @@ http://190.131.228.59:8000/play/a00g/index.m3u8
 http://190.131.228.59:8000/play/a0j2/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKids",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
-#EXTINF:-1,Discovery SCIENCE
-
 #EXTINF:-1 tvg-id="DiscoveryTurbo",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel",Disney Channel
@@ -47,9 +43,11 @@ http://190.131.228.59:8000/play/a05i/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="EEntertainment",E Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1 tvg-id="El Gourmet",El Gourmet
-
-#EXTINF:-1,ENERGEEK 1
+#EXTINF:-1,ENERGEEK Animate
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTINF:-1,ENERGEEK FanPop
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1,ENERGEEK Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1,ESPN
 http://190.131.228.59:8000/play/a00c/index.m3u8
@@ -75,14 +73,10 @@ http://190.131.228.59:8000/play/a0j5/index.m3u8
 http://190.131.228.59:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="HBOXTREMESD",HBO XTREME
 http://190.131.228.59:8000/play/a05g/index.m3u8
-#EXTINF:-1,HGTV
-
 #EXTINF:-1 tvg-id="HistoryChannel",History Channel
 http://190.131.228.59:8000/play/a03y/index.m3u8
 #EXTINF:-1,History 2
 http://flash.shortgod.com/bacle2023/tv2.php?id=50&token=ShortGod&file=.m3u8
-#EXTINF:-1,HTV
-
 #EXTINF:-1 tvg-id="MTV",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1,Nat Geo 
@@ -93,12 +87,12 @@ http://190.131.228.59:8000/play/a09b/index.m3u8
 http://190.131.228.59:8000/play/a03v/index.m3u8
 #EXTINF:-1,Paramount
 http://190.131.228.59:8000/play/a0jf/index.m3u8
-#EXTINF:-1,Pasiones
-
-#EXTINF:-1,RETROPLUS 1
+#EXTINF:-1,RETROPLUS Music 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,RETROPLUS 2
+#EXTINF:-1,RETROPLUS Music 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,RETROPLUS Movies
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony",Sony
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
@@ -111,8 +105,6 @@ http://190.131.228.59:8000/play/a00a/index.m3u8
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1,TASTEMADE
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,TBS
-
 #EXTINF:-1 tvg-id="TCM",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
@@ -125,8 +117,6 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 http://190.131.228.59:8000/play/a0hy/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="Tooncast",Tooncast
-
 #EXTINF:-1,Universal Channel
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
