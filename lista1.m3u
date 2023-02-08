@@ -6,7 +6,7 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AMC",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
-http://190.131.228.59:8000/play/a04i/index.m3u8
+http://45.228.234.77:4430/play/axnhd
 #EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
 #EXTINF:-1,Bandamax
@@ -35,10 +35,14 @@ http://190.131.228.59:8000/play/a04g/index.m3u8
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1,Comedy Central
+http://45.228.234.77:4430/play/comedy_central
 #EXTINF:-1,De Pelicula
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 #EXTINF:-1,Discovery Channel
 http://190.131.228.59:8000/play/a0j2/index.m3u8
+#EXTINF:-1,Discovery H&H
+http://45.228.234.77:4430/play/homeandhealth
 #EXTINF:-1 tvg-id="DiscoveryKids",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo",Discovery Turbo
@@ -120,7 +124,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playli
 #EXTINF:-1 tvg-id="Sony",Sony
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
-http://190.131.228.59:8000/play/a04j/index.m3u8
+http://45.228.234.77:4430/play/space
 #EXTINF:-1 tvg-id="STARCHANNEL",STAR CHANNEL
 http://190.131.228.59:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="SenalColombia",Señal Colombia
