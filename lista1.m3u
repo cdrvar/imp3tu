@@ -9,6 +9,8 @@ http://190.131.228.59:8000/play/a0jc/index.m3u8
 http://190.131.228.59:8000/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
+#EXTINF:-1,Bandamax
+https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 #EXTINF:-1,CABLENOTICIAS
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1,Canal Caracol
@@ -98,7 +100,7 @@ ttp://myott.top/stream/DEKA6YA5JRN/302.m3u8
 #EXTINF:-1,MTV Live
 http://45.228.234.77:4430/play/mtvhits
 #EXTINF:-1,MTV 80's
-http://myott.top/stream/DEKA6YA5JRN/87.m3u8
+http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/428501
 #EXTINF:-1,MTV 90's
 http://livetv.mylifeisgood.ml/channels/mtv90s
 #EXTINF:-1,Nat Geo 
@@ -137,6 +139,8 @@ http://190.131.228.59:8000/play/a0rj/index.m3u8
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 #EXTINF:-1,Telefuturo
 http://190.131.228.59:8000/play/a0hy/index.m3u8
+#EXTINF:-1,Telehit Plus
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
 #EXTINF:-1,Universal Channel
