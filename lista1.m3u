@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&EMundo",A&E Mundo
-http://190.83.119.67:8000/play/a0s8/index.m3u8
+
 #EXTINF:-1 tvg-id="AMC",AMC
-http://190.83.119.67:8000/play/a0pr/index.m3u8
+
 #EXTINF:-1 tvg-id="AXN",AXN
-http://190.83.119.67:8000/play/a0pp/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=78&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet",Animal Planet
-http://190.83.119.67:8000/play/a0sb/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=94&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="Baby TV",Baby TV
 http://190.83.119.67:8000/play/a0ns/index.m3u8
 #EXTINF:-1,CABLENOTICIAS
@@ -23,8 +23,10 @@ http://190.131.228.59:8000/play/a00h/index.m3u8
 http://190.83.119.67:8000/play/a0p8/index.m3u8
 #EXTINF:-1,CARTOONITO
 http://190.83.119.67:8000/play/a0pa/index.m3u8
+#EXTINF:-1,Cinecanal
+http://flash.shortgod.com/bacle2023/tv2.php?id=44&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
-http://190.83.119.67:8000/play/a0ug/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=43&token=ShortGod&file=.m3u8
 #EXTINF:-1,CINEMA +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
@@ -76,7 +78,9 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1,HGTV
 http://190.83.119.67:8000/play/a0nx/index.m3u8
 #EXTINF:-1 tvg-id="HistoryChannel",History Channel
-http://190.83.119.67:8000/play/a0sc/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=49&token=ShortGod&file=.m3u8
+#EXTINF:-1,History 2
+http://flash.shortgod.com/bacle2023/tv2.php?id=50&token=ShortGod&file=.m3u8
 #EXTINF:-1,HTV
 http://190.83.119.67:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="MTV",MTV
@@ -98,9 +102,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="Sony",Sony
 http://190.83.119.67:8000/play/a0s5/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
-http://190.83.119.67:8000/play/a0ph/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=39&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="STARCHANNEL",STAR CHANNEL
-http://190.83.119.67:8000/play/a0u4/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=42&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="SenalColombia",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1,Studio Universal
@@ -112,7 +116,7 @@ http://190.83.119.67:8000/play/a0pj/index.m3u8
 #EXTINF:-1 tvg-id="TCM",TCM
 http://190.83.119.67:8000/play/a0ri/index.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
-http://190.83.119.67:8000/play/a0pq/index.m3u8
+http://flash.shortgod.com/bacle2023/tv2.php?id=41&token=ShortGod&file=.m3u8
 #EXTINF:-1,TNT Series 
 http://190.83.119.67:8000/play/a0pi/index.m3u8
 #EXTINF:-1,TV AGRO
