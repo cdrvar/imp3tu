@@ -112,7 +112,7 @@ http://livetv.mylifeisgood.ml/channels/mtv80s
 #EXTINF:-1 tvg-id="MTV 90's",MTV 90's
 http://livetv.mylifeisgood.ml/channels/mtv90s
 #EXTINF:-1 tvg-id="MTV 00's",MTV 00's
-http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2549
+http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2550
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
@@ -139,18 +139,24 @@ http://190.131.228.59:8000/play/a00a/index.m3u8
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS",TBS
+http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2357
 #EXTINF:-1 tvg-id="TCM",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="Telehit Plus",Telehit Plus
+https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemundo",Telemundo
+http://190.131.228.59:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="TLNovelas",TLNovelas
 https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
 http://flash.shortgod.com/bacle2023/tv2.php?id=41&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="TNT Series",TNT Series 
 http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1 tvg-id="Telehit Plus",Telehit Plus
-https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemundo",Telemundo
-http://190.131.228.59:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast",Tooncast
+http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2437
+#EXTINF:-1 tvg-id="TruTV",TruTV
+http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2358
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
