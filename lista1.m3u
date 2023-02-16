@@ -29,7 +29,7 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 http://190.131.228.59:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" audio-track="spa",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal" audio-track="es",Cinecanal
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
