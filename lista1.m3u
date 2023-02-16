@@ -37,6 +37,8 @@ http://190.131.228.59:8000/play/a04g/index.m3u8
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="CNN en Español",CNN en Español
+http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2585
 #EXTINF:-1 tvg-id="Comedy Central",Comedy Central
 http://45.228.234.77:4430/play/comedy_central
 #EXTINF:-1 tvg-id="De Pelicula",De Pelicula
@@ -93,6 +95,8 @@ http://190.131.228.59:8000/play/a0j5/index.m3u8
 http://190.131.228.59:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme",HBO XTREME
 http://190.131.228.59:8000/play/a05g/index.m3u8
+#EXTINF:-1 tvg-id="HGTV",HGTV
+http://flash.shortgod.com/bacle2023/tv10.php?id=46703
 #EXTINF:-1 tvg-id="History Channel",History Channel
 http://190.131.228.59:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="History 2",History 2
@@ -107,6 +111,8 @@ http://45.228.234.77:4430/play/mtvhits
 http://livetv.mylifeisgood.ml/channels/mtv80s
 #EXTINF:-1 tvg-id="MTV 90's",MTV 90's
 http://livetv.mylifeisgood.ml/channels/mtv90s
+#EXTINF:-1 tvg-id="MTV 00's",MTV 00's
+http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2549
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
