@@ -25,137 +25,133 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 http://190.131.228.59:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="Canal Capital",Canal Capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
-#EXTINF:-1 tvg-id="Cartton Network",Cartton Network
+#EXTINF:-1 tvg-id="Cartton Network",Cartoon Network
 http://190.131.228.59:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" audio-track="es",Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal",Cinecanal
 http://190.131.228.59:8000/play/a0ro/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://190.131.228.59:8000/play/a04g/index.m3u8
-#EXTINF:-1,CINEMA +
+#EXTINF:-1 tvg-id="Cinema +",Cinema +
 https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 tvg-id="Comedy Central",Comedy Central
 http://45.228.234.77:4430/play/comedy_central
-#EXTINF:-1,De Pelicula
+#EXTINF:-1 tvg-id="De Pelicula",De Pelicula
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
 http://190.131.228.59:8000/play/a0j2/index.m3u8
-#EXTINF:-1,Discovery H&H
+#EXTINF:-1 tvg-id="Discovery H&H",Discovery H&H
 http://45.228.234.77:4430/play/homeandhealth
-#EXTINF:-1 tvg-id="DiscoveryKids",Discovery Kids
+#EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryTurbo",Discovery Turbo
+#EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel",Disney Channel
 http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr",Disney Jr
+#EXTINF:-1 tvg-id="Disney Jr",Disney Jr
 http://190.131.228.59:8000/play/a05i/index.m3u8
-#EXTINF:-1,DW EN ESPAÑOL
+#EXTINF:-1 tvg-id="DW en Español",DW en Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="EEntertainment",E Entertainment
+#EXTINF:-1 tvg-id="E Entertainment",E Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
-#EXTINF:-1,ENERGEEK Animate
+#EXTINF:-1 tvg-id="Energeek 1",Energeek Animate
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
-#EXTINF:-1,ENERGEEK FanPop
+#EXTINF:-1 tvg-id="Energeek 2",Energeek FanPop
 https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1,ENERGEEK Retro
+#EXTINF:-1 tvg-id="Energeek 3",Energeek Retro
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1 tvg-id="ESPN 1",ESPN
 http://190.131.228.59:8000/play/a00c/index.m3u8
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2",ESPN 2
 http://190.131.228.59:8000/play/a0hn/index.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3",ESPN 3
 http://190.131.228.59:8000/play/a04v/index.m3u8
-#EXTINF:-1,ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="FX",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
-#EXTINF:-1,Film & Arts
+#EXTINF:-1 tvg-id="Film & Arts",Film & Arts
 http://190.131.228.59:8000/play/a0qv/index.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1 tvg-id="Golden",Golden
 https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 tvg-id="Golden Edge",Golden Edge
 https://linear-407.frequency.stream/dist/vix/407/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Plus
+#EXTINF:-1 tvg-id="Golden Plus",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1,Golden Premier
+#EXTINF:-1 tvg-id="Golden Premier",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO",HBO
 http://190.131.228.59:8000/play/a0rp/index.m3u8
-#EXTINF:-1 tvg-id="HBO2",HBO 2
+#EXTINF:-1 tvg-id="HBO 2",HBO 2
 http://190.131.228.59:8000/play/a0jh/index.m3u8
-#EXTINF:-1,HBO Family
+#EXTINF:-1 tvg-id="HBO Family",HBO Family
 http://190.131.228.59:8000/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-id="HBOPlus",HBO Plus
+#EXTINF:-1 tvg-id="HBO Plus",HBO Plus
 http://190.131.228.59:8000/play/a05f/index.m3u8
-#EXTINF:-1 tvg-id="HBOXTREMESD",HBO XTREME
+#EXTINF:-1 tvg-id="HBO Xtreme",HBO XTREME
 http://190.131.228.59:8000/play/a05g/index.m3u8
-#EXTINF:-1 tvg-id="HistoryChannel",History Channel
+#EXTINF:-1 tvg-id="History Channel",History Channel
 http://190.131.228.59:8000/play/a03y/index.m3u8
-#EXTINF:-1,History 2
+#EXTINF:-1 tvg-id="History 2",History 2
 http://flash.shortgod.com/bacle2023/tv2.php?id=50&token=ShortGod&file=.m3u8
 #EXTINF:-1 tvg-id="MTV",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
-#EXTINF:-1,MTV Classic
+#EXTINF:-1 tvg-id="MTV Classic",MTV Classic
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
-#EXTINF:-1,MTV hits
+#EXTINF:-1 tvg-id="MTV Hits",MTV hits
 ttp://myott.top/stream/DEKA6YA5JRN/302.m3u8
-#EXTINF:-1,MTV Live
+#EXTINF:-1 tvg-id="MTV Live",MTV Live
 http://45.228.234.77:4430/play/mtvhits
-#EXTINF:-1,MTV 80's
+#EXTINF:-1 tvg-id="MTV 80's",MTV 80's
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/428501
-#EXTINF:-1,MTV 90's
+#EXTINF:-1 tvg-id="MTV 90's",MTV 90's
 http://livetv.mylifeisgood.ml/channels/mtv90s
-#EXTINF:-1,Nat Geo 
+#EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://190.131.228.59:8000/play/a0j9/index.m3u8
-#EXTINF:-1 tvg-id="NickJr",Nick Jr
+#EXTINF:-1 tvg-id="Nick Jr",Nick Jr
 http://190.131.228.59:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
 http://190.131.228.59:8000/play/a03v/index.m3u8
-#EXTINF:-1,Paramount
+#EXTINF:-1 tvg-id="Paramount",Paramount
 http://190.131.228.59:8000/play/a0jf/index.m3u8
-#EXTINF:-1,RETROPLUS Music 1
+#EXTINF:-1 tvg-id="Retroplus Music 1",Retroplus Music 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,RETROPLUS Music 2
+#EXTINF:-1 tvg-id="Retroplus Music 2",Retroplus Music 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,RETROPLUS Movies
+#EXTINF:-1 tvg-id="Retroplus Movies",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony",Sony
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
 http://45.228.234.77:4430/play/space
-#EXTINF:-1 tvg-id="STARCHANNEL",STAR CHANNEL
+#EXTINF:-1 tvg-id="Star Channel",Star ChannelL
 http://190.131.228.59:8000/play/a08r/index.m3u8
-#EXTINF:-1 tvg-id="SenalColombia",Señal Colombia
+#EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal",Studio Universal
 http://190.131.228.59:8000/play/a0jg/index.m3u8
-#EXTINF:-1,TASTEMADE
+#EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8
-#EXTINF:-1,TLNovelas
+#EXTINF:-1 tvg-id="TLNovelas",TLNovelas
 https://linear-421.frequency.stream/dist/vix/421/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
 http://flash.shortgod.com/bacle2023/tv2.php?id=41&token=ShortGod&file=.m3u8
-#EXTINF:-1,TNT Series 
+#EXTINF:-1 tvg-id="TNT Series",TNT Series 
 http://190.131.228.59:8000/play/a0rj/index.m3u8
-#EXTINF:-1,TV AGRO
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
-#EXTINF:-1,Telefuturo
-http://190.131.228.59:8000/play/a0hy/index.m3u8
-#EXTINF:-1,Telehit Plus
+#EXTINF:-1 tvg-id="Telehit Plus",Telehit Plus
 https://linear-419.frequency.stream/419/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemundo",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
-#EXTINF:-1,Universal Channel
+#EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://190.131.228.59:8000/play/a040/index.m3u8
-#EXTINF:-1 tvg-id="Warner",Warner
+#EXTINF:-1 tvg-id="Warner Channel",Warner Channel
 http://190.131.228.59:8000/play/a05p/index.m3u8
-#EXTINF:-1,WIN SPORTS
+#EXTINF:-1 tvg-id="Win Sports",Win Sports
 http://190.131.228.59:8000/play/a04m/index.m3u8
-#EXTINF:-1,Win Sports+
+#EXTINF:-1 tvg-id="Win Sports +",Win Sports+
 http://190.131.228.59:8000/play/a0e2/index.m3u8
