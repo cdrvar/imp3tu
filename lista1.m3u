@@ -101,12 +101,10 @@ http://flash.shortgod.com/bacle2023/tv2.php?id=50&token=ShortGod&file=.m3u8
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
-#EXTINF:-1 tvg-id="MTV Hits",MTV hits
-ttp://myott.top/stream/DEKA6YA5JRN/302.m3u8
 #EXTINF:-1 tvg-id="MTV Live",MTV Live
 http://45.228.234.77:4430/play/mtvhits
 #EXTINF:-1 tvg-id="MTV 80's",MTV 80's
-http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/428501
+http://livetv.mylifeisgood.ml/channels/mtv80s
 #EXTINF:-1 tvg-id="MTV 90's",MTV 90's
 http://livetv.mylifeisgood.ml/channels/mtv90s
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
@@ -123,11 +121,11 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Retroplus Movies",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="Sony",Sony
+#EXTINF:-1 tvg-id="Canal Sony",Canal Sony
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
 http://45.228.234.77:4430/play/space
-#EXTINF:-1 tvg-id="Star Channel",Star ChannelL
+#EXTINF:-1 tvg-id="Star Channel",Star Channel
 http://190.131.228.59:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
