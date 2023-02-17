@@ -13,7 +13,7 @@ http://190.131.228.59:8000/play/a0rq/index.m3u8
 http://flash.shortgod.com/bacle2023/tv8.php?id=2938
 #EXTINF:-1 tvg-id="Bandamax",Bandamax
 https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Bit Me",Bit Me
+#EXTINF:-1 tvg-id="BitMe",BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias",Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
@@ -47,7 +47,7 @@ http://45.228.234.77:4430/play/comedy_central
 https://linear-354.frequency.stream/dist/vix/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
 http://190.131.228.59:8000/play/a0j2/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Home and Health",Discovery H&H
+#EXTINF:-1 tvg-id="Discovery Home and Health",Discovery Home and Health
 http://45.228.234.77:4430/play/homeandhealth
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
@@ -57,11 +57,11 @@ http://flash.shortgod.com/bacle2023/tv8.php?id=77
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
 http://190.131.228.59:8000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="Disney Junior",Disney Jr
+#EXTINF:-1 tvg-id="Disney Junior",Disney Junior
 http://190.131.228.59:8000/play/a05i/index.m3u8
-#EXTINF:-1 tvg-id="DW en Español",DW en Español
+#EXTINF:-1 tvg-id="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="E!",E Entertainment
+#EXTINF:-1 tvg-id="E!",E!
 http://190.131.228.59:8000/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet",El Gourmet
 http://flash.shortgod.com/bacle2023/tv8.php?id=88
