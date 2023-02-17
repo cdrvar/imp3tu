@@ -79,12 +79,12 @@ http://190.131.228.59:8000/play/a0hn/index.m3u8
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-id="Film & Arts",Film & Arts
+http://190.131.228.59:8000/play/a0qv/index.m3u8
 #EXTINF:-1 tvg-id="Food Network",Food Network
 http://flash.shortgod.com/bacle2023/tv8.php?id=95
 #EXTINF:-1 tvg-id="FX",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
-#EXTINF:-1 tvg-id="Film & Arts",Film & Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
 #EXTINF:-1 tvg-id="Golden",Golden
 https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Edge",Golden Edge
@@ -101,6 +101,8 @@ http://190.131.228.59:8000/play/a0jh/index.m3u8
 http://190.131.228.59:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus",HBO Plus
 http://190.131.228.59:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="HBO Pop",HBO Pop
+http://flash.shortgod.com/bacle2023/tv8.php?id=129
 #EXTINF:-1 tvg-id="HBO Signature",HBO Signature
 http://flash.shortgod.com/bacle2023/tv8.php?id=755
 #EXTINF:-1 tvg-id="HBO Xtreme",HBO XTREME
@@ -126,9 +128,9 @@ http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2550
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
-http://190.131.228.59:8000/play/a09b/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=137
 #EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
-http://190.131.228.59:8000/play/a03v/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=136
 #EXTINF:-1 tvg-id="Paramount",Paramount
 http://190.131.228.59:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="Retroplus Music 1",Retroplus Music 1
@@ -146,7 +148,7 @@ http://45.228.234.77:4430/play/space
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
 http://flash.shortgod.com/bacle2023/tv8.php?id=3475
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
-http://190.131.228.59:8000/play/a0jg/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=147
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
@@ -168,9 +170,9 @@ http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2437
 #EXTINF:-1 tvg-id="TruTV",TruTV
 http://flash.shortgod.com/bacle2023/tv8.php?id=159
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
-http://190.131.228.59:8000/play/a040/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=175
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
-http://190.131.228.59:8000/play/a05p/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=178
 #EXTINF:-1 tvg-id="Win Sports",Win Sports
 http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="Win Sports +",Win Sports+
