@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A&EMundo",A&E Mundo
+#EXTINF:-1 tvg-id="A&E",A&E Mundo
 http://190.131.228.59:8000/play/a05x/index.m3u8
-#EXTINF:-1 tvg-id="Anime Zone",Anime Zone
-http://azxtv.com/hls/stream.m3u8
+
+
 #EXTINF:-1 tvg-id="AMC",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
@@ -13,7 +13,7 @@ http://190.131.228.59:8000/play/a0rq/index.m3u8
 http://flash.shortgod.com/bacle2023/tv8.php?id=2938
 #EXTINF:-1 tvg-id="Bandamax",Bandamax
 https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="BitMe",BitMe
+#EXTINF:-1 tvg-id="Bit Me",BitMe
 https://linear-401.frequency.stream/dist/vix/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias",Cablenoticias
 https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
