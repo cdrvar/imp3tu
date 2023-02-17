@@ -9,6 +9,8 @@ http://190.131.228.59:8000/play/a0jc/index.m3u8
 http://45.228.234.77:4430/play/axnhd
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-id="Baby TV",Baby TV
+http://flash.shortgod.com/bacle2023/tv8.php?id=2938
 #EXTINF:-1 tvg-id="Bandamax",Bandamax
 https://linear-400.frequency.stream/dist/vix/400/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="BitMe",BitMe
@@ -49,6 +51,8 @@ http://190.131.228.59:8000/play/a0j2/index.m3u8
 http://45.228.234.77:4430/play/homeandhealth
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science",Discovery Science
+http://flash.shortgod.com/bacle2023/tv8.php?id=77
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
@@ -59,6 +63,8 @@ http://190.131.228.59:8000/play/a05i/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="E Entertainment",E Entertainment
 http://190.131.228.59:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="El Gourmet",El Gourmet
+http://flash.shortgod.com/bacle2023/tv8.php?id=88
 #EXTINF:-1 tvg-id="Energeek 1",Energeek Animate
 https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
 #EXTINF:-1 tvg-id="Energeek 2",Energeek FanPop
@@ -73,6 +79,8 @@ http://190.131.228.59:8000/play/a0hn/index.m3u8
 http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
+#EXTINF:-1 tvg-id="Food Network",Food Network
+http://flash.shortgod.com/bacle2023/tv8.php?id=95
 #EXTINF:-1 tvg-id="FX",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts",Film & Arts
@@ -93,6 +101,8 @@ http://190.131.228.59:8000/play/a0jh/index.m3u8
 http://190.131.228.59:8000/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus",HBO Plus
 http://190.131.228.59:8000/play/a05f/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature",HBO Signature
+http://flash.shortgod.com/bacle2023/tv8.php?id=755
 #EXTINF:-1 tvg-id="HBO Xtreme",HBO XTREME
 http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="HGTV",HGTV
@@ -100,9 +110,9 @@ http://flash.shortgod.com/bacle2023/tv10.php?id=46703
 #EXTINF:-1 tvg-id="History Channel",History Channel
 http://190.131.228.59:8000/play/a03y/index.m3u8
 #EXTINF:-1 tvg-id="History 2",History 2
-http://flash.shortgod.com/bacle2023/tv2.php?id=50&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=122
 #EXTINF:-1 tvg-id="MTV",MTV
-http://190.131.228.59:8000/play/a042/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=752
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
 #EXTINF:-1 tvg-id="MTV Live",MTV Live
@@ -132,7 +142,7 @@ http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
 http://45.228.234.77:4430/play/space
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
-http://190.131.228.59:8000/play/a08r/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=3475
 #EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
@@ -140,7 +150,7 @@ http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
-http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2357
+http://flash.shortgod.com/bacle2023/tv8.php?id=150
 #EXTINF:-1 tvg-id="TCM",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="Telehit Plus",Telehit Plus
@@ -156,7 +166,7 @@ http://190.131.228.59:8000/play/a0rj/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2437
 #EXTINF:-1 tvg-id="TruTV",TruTV
-http://flash.shortgod.com/bacle2023/tv9.php?id=Bk6HmHjpSM/2358
+http://flash.shortgod.com/bacle2023/tv8.php?id=159
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
