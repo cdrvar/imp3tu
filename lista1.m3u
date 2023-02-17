@@ -108,7 +108,7 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="HGTV",HGTV
 http://flash.shortgod.com/bacle2023/tv10.php?id=46703
 #EXTINF:-1 tvg-id="History Channel",History Channel
-http://190.131.228.59:8000/play/a03y/index.m3u8
+http://flash.shortgod.com/bacle2023/tv8.php?id=123
 #EXTINF:-1 tvg-id="History 2",History 2
 http://flash.shortgod.com/bacle2023/tv8.php?id=122
 #EXTINF:-1 tvg-id="MTV",MTV
@@ -137,14 +137,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Retroplus Movies",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Sony",Canal Sony
-http://190.131.228.59:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
+http://190.131.228.59:8000/play/a00a/index.m3u8
+#EXTINF:-1 tvg-id="Sony",Sony
+http://flash.shortgod.com/bacle2023/tv8.php?id=143
 #EXTINF:-1 tvg-id="Space",Space
 http://45.228.234.77:4430/play/space
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
 http://flash.shortgod.com/bacle2023/tv8.php?id=3475
-#EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
-http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
