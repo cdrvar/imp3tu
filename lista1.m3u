@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&E",A&E
 http://190.131.228.59:8000/play/a05x/index.m3u8
-
-
 #EXTINF:-1 tvg-id="AMC",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
