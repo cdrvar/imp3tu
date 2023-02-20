@@ -38,7 +38,7 @@ https://hvtrafico.ddns.net/cinema720/cinema720.stream/.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://190.131.228.59:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="CNN en Español",CNN en Español
-http://flash.shortgod.com/escritor_21/tv7.php?id=67
+http://190.131.228.59:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central",Comedy Central
 http://45.228.234.77:4430/play/comedy_central
 #EXTINF:-1 tvg-id="De Pelicula",De Pelicula
@@ -51,8 +51,12 @@ http://45.228.234.77:4430/play/homeandhealth
 http://190.131.228.59:8000/play/a0rd/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Science",Discovery Science
 http://flash.shortgod.com/escritor_21/tv7.php?id=77
+#EXTINF:-1 tvg-id="Discovery Theater",Discovery Theater
+http://190.131.228.59:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
 http://190.131.228.59:8000/play/a04t/index.m3u8
+#EXTINF:-1 tvg-id="Discovery World",Discovery World
+http://190.131.228.59:8000/play/a0rn/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
 http://190.131.228.59:8000/play/a05m/index.m3u8
 #EXTINF:-1 tvg-id="Disney Junior",Disney Junior
@@ -112,7 +116,7 @@ http://flash.shortgod.com/escritor_21/tv7.php?id=123
 #EXTINF:-1 tvg-id="History 2",History 2
 http://flash.shortgod.com/escritor_21/tv7.php?id=122
 #EXTINF:-1 tvg-id="MTV",MTV
-http://flash.shortgod.com/escritor_21/tv7.php?id=122
+http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
 #EXTINF:-1 tvg-id="MTV Live",MTV Live
