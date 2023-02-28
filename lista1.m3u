@@ -3,6 +3,8 @@
 http://190.131.228.59:8000/play/a05x/index.m3u8
 #EXTINF:-1 tvg-id="AMC",AMC
 http://190.131.228.59:8000/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-id="AnimeStation",Anime Station
+https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
 http://45.228.234.77:4430/play/axnhd
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
@@ -126,9 +128,9 @@ http://livetv.mylifeisgood.ml/channels/mtv90s
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
-
+http://190.131.228.59:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
-
+http://190.131.228.59:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="Paramount",Paramount
 http://190.131.228.59:8000/play/a0jf/index.m3u8
 #EXTINF:-1 tvg-id="Retroplus Music 1",Retroplus Music 1
