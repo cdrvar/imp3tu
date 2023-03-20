@@ -5,6 +5,8 @@ http://190.131.228.59:8000/play/a05x/index.m3u8
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AnimeStation",Anime Station
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
+#EXTINF:-1 tvg-id="AnimeZone",Anime Zone
+http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
 http://181.78.22.97:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
@@ -27,6 +29,8 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 http://190.131.228.59:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="CGTN Español",CGTN Español
+http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal",Cinecanal
 http://190.131.228.59:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
@@ -35,12 +39,16 @@ http://190.131.228.59:8000/play/a04g/index.m3u8
 http://190.131.228.59:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="CNN en Español",CNN en Español
 http://190.131.228.59:8000/play/a052/index.m3u8
+#EXTINF:-1 tvg-id="Comedy Central",Comedy Central
+http://168.232.168.242:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
 http://190.131.228.59:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home and Health",Discovery Home and Health
 http://190.131.228.59:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://190.131.228.59:8000/play/a0rd/index.m3u8
+#EXTINF:-1 tvg-id="Discovery Science",Discovery Science
+http://168.232.168.242:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Theater",Discovery Theater
 http://190.131.228.59:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
@@ -73,6 +81,8 @@ http://181.78.22.97:8000/play/a023/index.m3u8
 http://181.78.22.97:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="FX",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
+#EXTINF:-1 tvg-id="Golden",Golden
+http://168.232.168.242:8000/play/a039/index.m3u8
 #EXTINF:-1 tvg-id="HBO",HBO
 http://190.131.228.59:8000/play/a0rp/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
@@ -85,6 +95,10 @@ http://190.131.228.59:8000/play/a05f/index.m3u8
 http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="History Channel",History Channel
 http://190.131.228.59:8000/play/a03y/index.m3u8
+#EXTINF:-1 tvg-id="History 2",H2
+http://168.232.168.242:8000/play/a033/index.m3u8
+#EXTINF:-1 tvg-id="Locomotion",Locomotion
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MTV",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
@@ -103,6 +117,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Retroplus Movies",Retroplus Movies
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 tvg-id="RT en Español",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
 http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Sony",Sony
