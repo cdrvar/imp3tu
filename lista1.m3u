@@ -83,8 +83,6 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 http://168.232.168.242:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="History 2",H2
 http://168.232.168.242:8000/play/a033/index.m3u8
-#EXTINF:-1 tvg-id="Locomotion",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="MTV",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
