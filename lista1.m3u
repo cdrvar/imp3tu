@@ -37,6 +37,8 @@ http://190.131.228.59:8000/play/a00g/index.m3u8
 http://190.131.228.59:8000/play/a052/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central",Comedy Central
 http://168.232.168.242:8000/play/a066/index.m3u8
+#EXTINF:-1 tvg-id="DHE",DHE
+http://181.189.243.254:8000/play/a0ok/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
 http://190.131.228.59:8000/play/a0qu/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home and Health",Discovery Home and Health
@@ -89,10 +91,14 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 http://168.232.168.242:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="History 2",H2
 http://45.160.12.253:8000/play/033
+#EXTINF:-1 tvg-id="HTV",HTV
+http://181.189.243.254:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="MTV",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
 http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
+#EXTINF:-1 tvg-id="MTV 00s",MTV 00s
+http://181.189.243.254:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://190.131.228.59:8000/play/a0j9/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
@@ -133,6 +139,8 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="TNT Series",TNT Series 
 http://190.131.228.59:8000/play/a0rj/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast",Tooncast
+http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
