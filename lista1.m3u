@@ -5,8 +5,6 @@ http://190.131.228.59:8000/play/a05x/index.m3u8
 http://190.131.228.59:8000/play/a0jc/index.m3u8
 #EXTINF:-1 tvg-id="AnimeStation",Anime Station
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
-#EXTINF:-1 tvg-id="AnimeZone",Anime Zone
-http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
 #EXTINF:-1 tvg-id="Canal Caracol",Canal Caracol
