@@ -7,6 +7,10 @@ http://190.131.228.59:8000/play/a0jc/index.m3u8
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
+#EXTINF:-1 tvg-id="AXN",AXN
+http://45.160.12.253:8000/play/087
+#EXTINF:-1 tvg-id="Baby First",Baby First
+http://45.160.12.253:8000/play/008
 #EXTINF:-1 tvg-id="Canal Caracol",Canal Caracol
 http://190.131.228.59:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-id="Canal RCN",Canal RCN
@@ -55,6 +59,8 @@ http://190.131.228.59:8000/play/a05i/index.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="E!",E!
 http://190.131.228.59:8000/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="El Gourmet",El Gourmet
+http://45.160.12.253:8000/play/177
 #EXTINF:-1 tvg-id="ESPN 1",ESPN
 http://190.131.228.59:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
@@ -82,7 +88,7 @@ http://190.131.228.59:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-id="History Channel",History Channel
 http://168.232.168.242:8000/play/a026/index.m3u8
 #EXTINF:-1 tvg-id="History 2",H2
-http://168.232.168.242:8000/play/a033/index.m3u8
+http://45.160.12.253:8000/play/033
 #EXTINF:-1 tvg-id="MTV",MTV
 http://190.131.228.59:8000/play/a042/index.m3u8
 #EXTINF:-1 tvg-id="MTV Classic",MTV Classic
@@ -108,17 +114,21 @@ http://190.131.228.59:8000/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Sony",Sony
 http://190.131.228.59:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
-http://190.131.228.59:8000/play/a04j/index.m3u8
+http://45.160.12.253:8000/play/119
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
 http://190.131.228.59:8000/play/a08r/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
 http://190.131.228.59:8000/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TBS",TBS
+http://181.204.79.178:8202/play/a03u
 #EXTINF:-1 tvg-id="TCM",TCM
 http://190.131.228.59:8000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-id="Teleritmo ",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="TNT Series",TNT Series 
