@@ -7,14 +7,8 @@ http://190.131.228.59:8000/play/a0jc/index.m3u8
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="AnimeZone",Anime Zone
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AXN",AXN
-http://181.78.22.97:8000/play/a00s/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
 http://190.131.228.59:8000/play/a0rq/index.m3u8
-#EXTINF:-1 tvg-id="BabyFirst",Baby First
-http://181.78.22.97:8000/play/a036/index.m3u8
-#EXTINF:-1 tvg-id="Cablenoticias",Cablenoticias
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal Caracol",Canal Caracol
 http://190.131.228.59:8000/play/a0r7/index.m3u8
 #EXTINF:-1 tvg-id="Canal RCN",Canal RCN
@@ -73,12 +67,6 @@ http://190.131.228.59:8000/play/a04v/index.m3u8
 http://190.131.228.59:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts",Film & Arts
 http://190.131.228.59:8000/play/a0qv/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 1",Fox Sports 1
-http://181.78.22.97:8000/play/a02e/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 2",Fox Sports 2
-http://181.78.22.97:8000/play/a023/index.m3u8
-#EXTINF:-1 tvg-id="Fox Sports 3",Fox Sports 3
-http://181.78.22.97:8000/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="FX",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="Golden",Golden
@@ -144,6 +132,6 @@ http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
 http://168.232.168.242:8000/play/a0eq/index.m3u8
 #EXTINF:-1 tvg-id="Win Sports",Win Sports
-http://181.78.22.97:8000/play/a00w/index.m3u8
+http://190.131.228.59:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="Win Sports +",Win Sports+
-http://181.78.22.97:8000/play/a03j/index.m3u8
+http://190.131.228.59:8000/play/a0e2/index.m3u8
