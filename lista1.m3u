@@ -40,7 +40,7 @@ http://168.232.168.242:8000/play/a066/index.m3u8
 #EXTINF:-1 tvg-id="DHE",DHE
 http://181.189.243.254:8000/play/a0ok/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
-http://190.131.228.59:8000/play/a0qu/index.m3u8
+http://181.189.243.254:8000/play/a0sa/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Home and Health",Discovery Home and Health
 http://190.131.228.59:8000/play/a0re/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
@@ -72,7 +72,7 @@ http://190.131.228.59:8000/play/a04v/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 4",ESPN 4
 http://190.131.228.59:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="Film & Arts",Film & Arts
-http://190.131.228.59:8000/play/a0qv/index.m3u8
+http://181.189.243.254:8000/play/a0q6/index.m3u8
 #EXTINF:-1 tvg-id="FX",FX
 http://190.131.228.59:8000/play/a0rk/index.m3u8
 #EXTINF:-1 tvg-id="Golden",Golden
