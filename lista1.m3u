@@ -6,7 +6,7 @@ http://181.189.243.254:8000/play/a0q8/index.m3u8
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
 http://45.228.234.162:24000/play/a049/index.m3u8
 #EXTINF:-1 tvg-id="AXN",AXN
-http://45.170.241.28:4000/play/a00i/index.m3u8
+http://181.78.24.67:8010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="Baby First",Baby First
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Canal Caracol",Canal Caracol
@@ -16,7 +16,7 @@ http://177.93.52.100:45001/play/a06p
 #EXTINF:-1 tvg-id="Red+",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="Canal Uno",Canal Uno
-http://45.170.241.28:4000/play/1128/index.m3u8
+http://181.78.24.67:8010/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="Canal Capital",Canal Capital
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network",Cartoon Network
@@ -28,9 +28,9 @@ http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal",Cinecanal
 http://45.228.234.162:24000/play/a09i/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
-http://45.170.241.28:4000/play/a04h/index.m3u8
+http://181.78.24.67:8010/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
-http://177.93.52.100:45001/play/a0c9
+http://181.78.24.67:8010/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="CNN en Español",CNN en Español
 http://45.228.234.162:24000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central",Comedy Central
@@ -69,12 +69,8 @@ http://181.189.243.254:8000/play/a0q6/index.m3u8
 http://177.93.52.100:45001/play/a07l
 #EXTINF:-1 tvg-id="FX",FX
 http://177.93.52.100:45001/play/a06n
-#EXTINF:-1 tvg-id="Golden",Golden
-https://linear-408.frequency.stream/408/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Golden Plus",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Golden Premier",Golden Premier
-https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO",HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
@@ -88,26 +84,22 @@ http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 tvg-id="HGTV",HGTV
 http://45.228.234.162:24000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="History Channel",History Channel
-http://45.228.234.162:24000/play/a02z/index.m3u8
+http://181.78.24.67:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="History 2",H2
 http://45.228.234.162:24000/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="HTV",HTV
 http://181.189.243.254:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature",Love Nature
 http://177.93.52.100:45001/play/a07v
-#EXTINF:-1 tvg-id="Locomotion",Locomotion
-http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="MTV",MTV
-http://45.184.111.158:8000/play/a0ab/index.m3u8
-#EXTINF:-1 tvg-id="MTV Classic",MTV Classic
-http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/419343
+http://181.78.24.67:8010/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="MTV 00s",MTV 00s
 http://181.189.243.254:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://45.228.234.162:24000/play/a098/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
 http://45.228.234.162:24000/play/a02b/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon",Nickelodeon
+#EXTINF:-1 tvg-id="Nick",Nick
 http://45.228.234.162:24000/play/a06y/index.m3u8
 #EXTINF:-1 tvg-id="Paramount",Paramount
 http://181.189.243.254:8000/play/a0ol/index.m3u8
@@ -128,15 +120,11 @@ http://177.93.52.100:45001/play/a05f
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
 http://45.228.234.162:24000/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
-http://45.170.241.28:4000/play/a018/index.m3u8
+http://181.78.24.67:8010/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TBS",TBS
-http://45.228.234.162:24000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="TCM",TCM
 http://45.228.234.162:24000/play/a05m/index.m3u8
-#EXTINF:-1 tvg-id="Telemundo",Telemundo
-http://45.170.241.28:4000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="Teleritmo ",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
@@ -147,18 +135,13 @@ http://177.93.52.100:45001/play/a06m
 http://181.189.243.254:8000/play/a0s3/index.m3u8
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://45.228.234.162:24000/play/a078/index.m3u8
-#EXTINF:-1 tvg-id="Univision",Univivision
-https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
-http://45.228.234.162:24000/play/a06m/index.m3u8
+http://181.78.24.67:8010/play/a00b/index.m3u8
 #EXTINF:-1 tvg-id="Win Sports +",Win Sports+
-http://45.170.241.28:4000/play/a01i/index.m3u8
+http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="Nick Clásico",Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="MTV Clásico",MTV Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="South Park",South Park
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-
