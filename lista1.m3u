@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="A&E",A&E
 http://181.189.243.254:8000/play/a0q7/index.m3u8
 #EXTINF:-1 tvg-id="AMC",AMC
-http://181.189.243.254:8000/play/a0q8/index.m3u8
+http://177.93.52.100:45001/play/a06y
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
-http://45.228.234.162:24000/play/a049/index.m3u8
+http://177.93.52.100:45001/play/a079
 #EXTINF:-1 tvg-id="AXN",AXN
 http://181.78.24.67:8010/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="Baby First",Baby First
@@ -26,7 +26,7 @@ http://181.189.243.254:8000/play/a0pa/index.m3u8
 #EXTINF:-1 tvg-id="CGTN Español",CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal",Cinecanal
-http://45.228.234.162:24000/play/a09i/index.m3u8
+http://177.93.52.100:45001/play/a06x
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://181.78.24.67:8010/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
@@ -36,19 +36,19 @@ http://45.228.234.162:24000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central",Comedy Central
 http://181.189.243.254:8000/play/a0su/index.m3u8
 #EXTINF:-1 tvg-id="DHE",DHE
-http://181.189.243.254:8000/play/a0ok/index.m3u8
+http://177.93.52.100:45001/play/a083
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
-http://181.189.243.254:8000/play/a0sa/index.m3u8
+http://177.93.52.100:45001/play/a084
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://177.93.52.100:45001/play/a06b
 #EXTINF:-1 tvg-id="Discovery Science",Discovery Science
-http://45.228.234.162:24000/play/a09w/index.m3u8
+hhttp://177.93.52.100:45001/play/a0cl
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
 http://45.228.234.162:24000/play/a071/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
-http://45.228.234.162:24000/play/a06z/index.m3u8
+http://177.93.52.100:45001/play/a05v
 #EXTINF:-1 tvg-id="Disney Junior",Disney Junior
-http://45.228.234.162:24000/play/a02d/index.m3u8
+http://177.93.52.100:45001/play/a0cx
 #EXTINF:-1 tvg-id="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="E!",E!
@@ -70,7 +70,7 @@ http://177.93.52.100:45001/play/a07l
 #EXTINF:-1 tvg-id="FX",FX
 http://177.93.52.100:45001/play/a06n
 #EXTINF:-1 tvg-id="Golden Plus",Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+http://177.93.52.100:45001/play/a0d1
 #EXTINF:-1 tvg-id="HBO",HBO
 http://181.189.243.254:8000/play/a0or/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
@@ -86,7 +86,7 @@ http://45.228.234.162:24000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="History Channel",History Channel
 http://181.78.24.67:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="History 2",H2
-http://45.228.234.162:24000/play/a05b/index.m3u8
+http://177.93.52.100:45001/play/a086
 #EXTINF:-1 tvg-id="HTV",HTV
 http://181.189.243.254:8000/play/a0rg/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature",Love Nature
@@ -96,7 +96,7 @@ http://181.78.24.67:8010/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="MTV 00s",MTV 00s
 http://181.189.243.254:8000/play/a0rf/index.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
-http://45.228.234.162:24000/play/a098/index.m3u8
+http://177.93.52.100:45001/play/a06v
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
 http://45.228.234.162:24000/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="Nick",Nick
@@ -118,21 +118,21 @@ http://181.189.243.254:8000/play/a0s5/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
 http://177.93.52.100:45001/play/a05f
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
-http://45.228.234.162:24000/play/a070/index.m3u8
+http://177.93.52.100:45001/play/a06e
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
 http://181.78.24.67:8010/play/a05s/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM",TCM
-http://45.228.234.162:24000/play/a05m/index.m3u8
+http://177.93.52.100:45001/play/a0cn
 #EXTINF:-1 tvg-id="Teleritmo ",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 tvg-id="TNT",TNT
-http://45.228.234.162:24000/play/a02s/index.m3u8
+http://177.93.52.100:45001/play/a05x
 #EXTINF:-1 tvg-id="TNT Series",TNT Series 
 http://177.93.52.100:45001/play/a06m
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
-http://181.189.243.254:8000/play/a0s3/index.m3u8
+http://177.93.52.100:45001/play/a0cm
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
 http://45.228.234.162:24000/play/a078/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
