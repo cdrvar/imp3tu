@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="A&E",A&E
-http://181.189.243.254:8000/play/a0q7/index.m3u8
+http://181.78.24.67:8010/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="AMC",AMC
 http://177.93.52.100:45001/play/a06y
 #EXTINF:-1 tvg-id="Animal Planet",Animal Planet
@@ -22,7 +22,7 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 #EXTINF:-1 tvg-id="Cartoon Network",Cartoon Network
 http://177.93.52.100:45001/play/a072
 #EXTINF:-1 tvg-id="Cartoonito",Cartoonito
-http://181.189.243.254:8000/play/a0pa/index.m3u8
+
 #EXTINF:-1 tvg-id="CGTN Español",CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal",Cinecanal
@@ -32,9 +32,9 @@ http://181.78.24.67:8010/play/a05b/index.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://181.78.24.67:8010/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="CNN en Español",CNN en Español
-http://45.228.234.162:24000/play/a02u/index.m3u8
+http://181.78.24.67:8010/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="Comedy Central",Comedy Central
-http://181.189.243.254:8000/play/a0su/index.m3u8
+http://181.78.24.67:8010/play/a05c/index.m3u8
 #EXTINF:-1 tvg-id="DHE",DHE
 http://177.93.52.100:45001/play/a083
 #EXTINF:-1 tvg-id="Discovery Channel",Discovery Channel
@@ -43,8 +43,12 @@ http://177.93.52.100:45001/play/a084
 http://177.93.52.100:45001/play/a06b
 #EXTINF:-1 tvg-id="Discovery Science",Discovery Science
 hhttp://177.93.52.100:45001/play/a0cl
+#EXTINF:-1 tvg-id="Discovery Theater",Discovery Theater
+http://181.78.24.67:8010/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
-http://45.228.234.162:24000/play/a071/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery World",Discovery World
+http://181.78.24.67:8010/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
 http://177.93.52.100:45001/play/a05v
 #EXTINF:-1 tvg-id="Disney Junior",Disney Junior
@@ -52,9 +56,9 @@ http://177.93.52.100:45001/play/a0cx
 #EXTINF:-1 tvg-id="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="E!",E!
-http://45.228.234.162:24000/play/a04a/index.m3u8
+http://181.78.24.67:8010/play/a024/index.m3u8
 #EXTINF:-1 tvg-id="El Gourmet",El Gourmet
-http://45.228.234.162:24000/play/a05c/index.m3u8
+http://181.78.24.67:8010/play/a05f/index.m3u8
 #EXTINF:-1 tvg-id="ESPN",ESPN
 http://177.93.52.100:45001/play/a07g
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
@@ -64,7 +68,7 @@ http://177.93.52.100:45001/play/a05y
 #EXTINF:-1 tvg-id="ESPN 4",ESPN 4
 http://177.93.52.100:45001/play/a06h
 #EXTINF:-1 tvg-id="Film & Arts",Film & Arts
-http://181.189.243.254:8000/play/a0q6/index.m3u8
+
 #EXTINF:-1 tvg-id="Food Network",Food Network
 http://177.93.52.100:45001/play/a07l
 #EXTINF:-1 tvg-id="FX",FX
@@ -72,37 +76,41 @@ http://177.93.52.100:45001/play/a06n
 #EXTINF:-1 tvg-id="Golden Plus",Golden Plus
 http://177.93.52.100:45001/play/a0d1
 #EXTINF:-1 tvg-id="HBO",HBO
-http://181.189.243.254:8000/play/a0or/index.m3u8
+http://181.78.24.67:8010/play/a05o/index.m3u8
 #EXTINF:-1 tvg-id="HBO 2",HBO 2
-http://181.189.243.254:8000/play/a0os/index.m3u8
+http://181.78.24.67:8010/play/a05v/index.m3u8
 #EXTINF:-1 tvg-id="HBO Family",HBO Family
-http://181.189.243.254:8000/play/a0ou/index.m3u8
+http://181.78.24.67:8010/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="HBO Plus",HBO Plus
-http://181.189.243.254:8000/play/a0ot/index.m3u8
+http://181.78.24.67:8010/play/a046/index.m3u8
+#EXTINF:-1 tvg-id="HBO Pop",HBO Pop
+http://181.78.24.67:8010/play/a00g/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature",HBO Signature
+http://181.78.24.67:8010/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="HBO Xtreme",HBO XTREME
-http://181.189.243.254:8000/play/a0ov/index.m3u8
+http://181.78.24.67:8010/play/a045/index.m3u8
 #EXTINF:-1 tvg-id="HGTV",HGTV
-http://45.228.234.162:24000/play/a09v/index.m3u8
+
 #EXTINF:-1 tvg-id="History Channel",History Channel
 http://181.78.24.67:8010/play/a008/index.m3u8
 #EXTINF:-1 tvg-id="History 2",H2
 http://177.93.52.100:45001/play/a086
 #EXTINF:-1 tvg-id="HTV",HTV
-http://181.189.243.254:8000/play/a0rg/index.m3u8
+
 #EXTINF:-1 tvg-id="Love Nature",Love Nature
 http://177.93.52.100:45001/play/a07v
 #EXTINF:-1 tvg-id="MTV",MTV
 http://181.78.24.67:8010/play/a03o/index.m3u8
-#EXTINF:-1 tvg-id="MTV 00s",MTV 00s
-http://181.189.243.254:8000/play/a0rf/index.m3u8
+#EXTINF:-1 tvg-id="MTV Live",MTV Live
+http://181.78.24.67:8010/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="Nat Geo",Nat Geo 
 http://177.93.52.100:45001/play/a06v
 #EXTINF:-1 tvg-id="Nick Jr",Nick Jr
-http://45.228.234.162:24000/play/a02b/index.m3u8
+
 #EXTINF:-1 tvg-id="Nick",Nick
-http://45.228.234.162:24000/play/a06y/index.m3u8
+http://181.78.24.67:8010/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="Paramount",Paramount
-http://181.189.243.254:8000/play/a0ol/index.m3u8
+http://181.78.24.67:8010/play/a05r/index.m3u8
 #EXTINF:-1 tvg-id="Retroplus Music 1",Retroplus Music 1
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Retroplus Music 2",Retroplus Music 2
@@ -114,13 +122,17 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
 http://177.93.52.100:45001/play/a07d
 #EXTINF:-1 tvg-id="Sony",Sony
-http://181.189.243.254:8000/play/a0s5/index.m3u8
+http://181.78.24.67:8010/play/a00a/index.m3u8
 #EXTINF:-1 tvg-id="Space",Space
 http://177.93.52.100:45001/play/a05f
 #EXTINF:-1 tvg-id="Star Channel",Star Channel
 http://177.93.52.100:45001/play/a06e
 #EXTINF:-1 tvg-id="Studio Universal",Studio Universal
 http://181.78.24.67:8010/play/a05s/index.m3u8
+#EXTINF:-1 tvg-id="Sun Channel",Sun Channel
+http://181.78.24.67:8010/play/a04c/index.m3u8
+#EXTINF:-1 tvg-id="SyFy",SyFy
+http://181.78.24.67:8010/play/a02e/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TCM",TCM
@@ -134,10 +146,12 @@ http://177.93.52.100:45001/play/a06m
 #EXTINF:-1 tvg-id="Tooncast",Tooncast
 http://177.93.52.100:45001/play/a0cm
 #EXTINF:-1 tvg-id="Universal Channel",Universal Channel
-http://45.228.234.162:24000/play/a078/index.m3u8
+http://181.78.24.67:8010/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Warner Channel",Warner Channel
 http://181.78.24.67:8010/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="Win Sports +",Win Sports+
+#EXTINF:-1 tvg-id="Win Sports",Win Sports
+http://181.78.24.67:8010/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="Win Sports +",Win Sports +
 http://181.78.24.67:8010/play/a05w/index.m3u8
 #EXTINF:-1 tvg-id="Nick Clásico",Nick Clásico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
