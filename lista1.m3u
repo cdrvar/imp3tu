@@ -7,8 +7,8 @@ http://177.93.52.100:45001/play/a06y
 http://177.93.52.100:45001/play/a079
 #EXTINF:-1 tvg-id="AXN",AXN
 http://181.78.24.67:8010/play/a00c/index.m3u8
-#EXTINF:-1 tvg-id="Baby First",Baby First
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Baby TV",Baby TV
+http://181.78.24.67:8010/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="Canal Caracol",Canal Caracol
 http://177.93.52.100:45001/play/a081
 #EXTINF:-1 tvg-id="Canal RCN",Canal RCN
@@ -42,7 +42,7 @@ http://177.93.52.100:45001/play/a084
 #EXTINF:-1 tvg-id="Discovery Kids",Discovery Kids
 http://177.93.52.100:45001/play/a06b
 #EXTINF:-1 tvg-id="Discovery Science",Discovery Science
-hhttp://177.93.52.100:45001/play/a0cl
+
 #EXTINF:-1 tvg-id="Discovery Theater",Discovery Theater
 http://181.78.24.67:8010/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="Discovery Turbo",Discovery Turbo
@@ -52,7 +52,7 @@ http://181.78.24.67:8010/play/a05k/index.m3u8
 #EXTINF:-1 tvg-id="Disney Channel",Disney Channel
 http://177.93.52.100:45001/play/a05v
 #EXTINF:-1 tvg-id="Disney Junior",Disney Junior
-http://177.93.52.100:45001/play/a0cx
+http://181.78.24.67:8010/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="DW",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="E!",E!
@@ -111,12 +111,6 @@ http://177.93.52.100:45001/play/a06v
 http://181.78.24.67:8010/play/a00p/index.m3u8
 #EXTINF:-1 tvg-id="Paramount",Paramount
 http://181.78.24.67:8010/play/a05r/index.m3u8
-#EXTINF:-1 tvg-id="Retroplus Music 1",Retroplus Music 1
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Retroplus Music 2",Retroplus Music 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Retroplus Movies",Retroplus Movies
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="RT en Español",RT en Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="Senal Colombia",Señal Colombia
