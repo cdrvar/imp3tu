@@ -22,13 +22,15 @@ https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3
 #EXTINF:-1 tvg-id="Cartoon Network",Cartoon Network
 http://177.93.52.100:45001/play/a072
 #EXTINF:-1 tvg-id="Cartoonito",Cartoonito
-
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1 tvg-id="CGTN Español",CGTN Español
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal",Cinecanal
 http://177.93.52.100:45001/play/a06x
 #EXTINF:-1 tvg-id="Cinemax",Cinemax
 http://181.78.24.67:8010/play/a05b/index.m3u8
+#EXTINF:-1 tvg-id="Cine Sony",Cine Sony
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CityTV",City TV
 http://181.78.24.67:8010/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="CNN en Español",CNN en Español
@@ -99,6 +101,8 @@ http://177.93.52.100:45001/play/a086
 
 #EXTINF:-1 tvg-id="Love Nature",Love Nature
 http://177.93.52.100:45001/play/a07v
+#EXTINF:-1 tvg-id="Mi Gente TV",Mi Gente TV
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 #EXTINF:-1 tvg-id="MTV",MTV
 http://181.78.24.67:8010/play/a03o/index.m3u8
 #EXTINF:-1 tvg-id="MTV Live",MTV Live
